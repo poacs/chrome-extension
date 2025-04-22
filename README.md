@@ -1,10 +1,14 @@
-# Research Swift‑Assist Chrome Extension
+# Research Swift‑Assist
 
 Smart academic‑paper assistant in your browser.
 
 This project demonstrates how to build a Chrome extension using [React](https://react.dev/) with TypeScript and Vite. It showcases key features such as interacting with Chrome APIs ([storage](https://developer.chrome.com/docs/extensions/reference/api/storage), [contextMenus](https://developer.chrome.com/docs/extensions/reference/api/contextMenus)), testing with [Jest](https://jestjs.io/) and [Sinon](https://sinonjs.org/), and structuring a React app with separation of concerns.
 
-## Core features
+## Core Features
+
+1. Metadata extractor (Google Scholar + arXiv)
+2. LLM summarizer
+3. Citation generator (APA / BibTeX)
 
 ## Installation
 
