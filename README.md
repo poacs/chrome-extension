@@ -1,6 +1,6 @@
 # Research Swift‑Assist
 
-Smart academic‑paper assistant in your browser.
+Smart academic‑paper assistant in your browser. This extension streamlines academic reading by **extracting structured metadata** (title, authors, abstract) from Google Scholar + arXiv pages, then offering **GPT tools** to summarize and reference — all without leaving the tab. It cuts the copy‑paste friction so students, researchers, and academics can increase their productivity.
 
 This project demonstrates how to build a Chrome extension using [React](https://react.dev/) with TypeScript and Vite. It showcases key features such as interacting with Chrome APIs ([storage](https://developer.chrome.com/docs/extensions/reference/api/storage), [contextMenus](https://developer.chrome.com/docs/extensions/reference/api/contextMenus)), testing with [Jest](https://jestjs.io/) and [Sinon](https://sinonjs.org/), and structuring a React app with separation of concerns.
 
@@ -9,6 +9,8 @@ This project demonstrates how to build a Chrome extension using [React](https://
 1. Metadata extractor (Google Scholar + arXiv)
 2. LLM summarizer
 3. Citation generator (APA / BibTeX)
+
+## Known Bugs / Incomplete Features
 
 ## Installation
 
